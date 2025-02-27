@@ -55,7 +55,8 @@
 
 5. **시각화** 
    - Matplotlib를 이용하여 **숙박시설 수**와 **TV 사용률**의 비교를 시각화합니다.
-  
+   - 종합 순위를 시각화합니다.
+
 6. **순위 매기기** 
    - 각 국가별 **숙박시설 수**와 **TV 사용률**의 순위를 산정합니다.
    - 두 변수의 순위 평균을 계산하여 종합 순위를 도출합니다.
@@ -66,5 +67,6 @@
 
 ![image](https://github.com/user-attachments/assets/cfa30e56-5d2d-4c9b-970b-82acc3836c56)
 ![image](https://github.com/user-attachments/assets/90a315a0-0f31-41d7-ab9e-0cca705d4343)
-![image](https://github.com/user-attachments/assets/a3001a15-54cf-4ef8-9c22-cddb2787662d)
+![image](https://github.com/user-attachments/assets/70949efe-7ef3-4d68-86e9-164e5735b9f7)
+![image](https://github.com/user-attachments/assets/2dc32f61-8cbb-4cfd-b752-9981e3ed2581)
 ![image](https://github.com/user-attachments/assets/216174cb-bbdf-4aad-bfb6-1d6cb241c090)
